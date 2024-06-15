@@ -1,1 +1,2 @@
-# Beginner-s-Project
+# Beginners-Project
+## This repository contains 10 questions done in Java.
